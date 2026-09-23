@@ -111,8 +111,8 @@ smartshare/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/smartshare.git
-cd smartshare
+git clone https://github.com/AnanyaKastiya/Smart-Share.git
+cd Smart-Share
 ```
 
 ### 2. Install dependencies
