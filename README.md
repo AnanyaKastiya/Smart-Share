@@ -1,9 +1,6 @@
 # SmartShare: Unattended Multi-Resource Allocation & Operational Governance Engine
-
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/Frontend-Streamlit-FF4B4B.svg)](https://streamlit.io/)
-[![Database](https://img.shields.io/badge/Database-SQLite%20%2F%20MySQL-003B57.svg)](https://www.sqlite.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+> 🚀 **Live Interactive Demo:** **[smart-share.streamlit.app](https://smart-share.streamlit.app/)**  
+> *Test the Resident Booking Portal and Warden Operations Console live in your browser (no installation required).*
 
 > **Solving the Tragedy of the Commons in Shared Residential Facilities via Zero-CapEx Mechanism Design & Behavioral Economics**  
 > *Target Role Focus: Senior Associate – Business Management | Product Strategy, Operations & Unit Economics*
@@ -89,51 +86,11 @@ For a building owner or facility operator managing **10 residential properties**
 
 ---
 
-## 📁 Repository Structure
-
-```
-smartshare/
-├── app.py                             # Streamlit Web Application (Tenant & Warden Portals)
-├── database.py                        # Relational SQLite/MySQL engine & pre-seeded pilot database
-├── schema.sql                         # Standalone ANSI/MySQL schema export
-├── requirements.txt                   # Project dependencies
-├── .gitignore                         # Standard git ignore rules
-├── README.md                          # Project documentation
-└── presentation/
-    ├── SmartShare_Strategy_Deck.pptx   # Executive 12-slide strategy presentation (1.37 MB)
-    ├── DECK_WALKTHROUGH.md            # Comprehensive slide-by-slide speaker script & frameworks
-    └── *.png                          # High-resolution UI screenshots, charts, and operational diagrams
-```
-
----
-
-## 🚀 Quickstart & Installation
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/AnanyaKastiya/Smart-Share.git
-cd Smart-Share
-```
-
-### 2. Install dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Launch the application
-```bash
-python -m streamlit run app.py
-```
-Open your browser at `http://localhost:8501`.
-
----
-
 ## 🎯 Executive Strategy Presentation
 The repository includes a complete 12-slide product management strategy deck:
 * **Presentation File:** [`presentation/SmartShare_Strategy_Deck.pptx`](presentation/SmartShare_Strategy_Deck.pptx)
-* **Full Speaker Notes & Frameworks:** [`presentation/DECK_WALKTHROUGH.md`](presentation/DECK_WALKTHROUGH.md)
 
 ---
 
-## 📄 License
-This project is open-source and available under the [MIT License](LICENSE).
+## Author
+Ananya Kastiya
